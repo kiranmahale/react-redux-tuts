@@ -1,3 +1,7 @@
+INFO - This projects contains basic info about setting nd using react with redux.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
